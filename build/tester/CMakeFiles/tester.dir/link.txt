@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tester.dir/tester.cpp.o CMakeFiles/tester.dir/cmake_device_link.o -o ../bin/tester   -L/usr/lib/x86_64-linux-gnu/stubs  ../lib/libstudentlib.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
